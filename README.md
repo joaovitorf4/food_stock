@@ -1,2 +1,7 @@
 # food_stock
-## To run remember to create the .env file with the variables, SENDER_EMAIL, RECEIVER_EMAIL and PASSWORD.
+### Remember to create the .env file with the variables: 
+```
+SENDER_EMAIL="your-email@gmail.com"
+RECEIVER_EMAIL="your-email@gmail.com"
+PASSWORD="your-email-password-code"
+```
